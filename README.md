@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @leo-lucidor
-- 👀 I’m interested in Dev
-- 🌱 I’m currently learning on Dev
-- 💞️ I’m looking to collaborate with ?
+- 👀 I’m interested in Mainframe
+- 🌱 I’m currently learning on COBOL
 - 📫 How to reach me leo.lucidor.pro@gmail.com
