@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @leo-lucidor
-- 👀 I’m interested in Mainframe
-- 🌱 I’m currently learning on COBOL
-- 📫 How to reach me leo.lucidor.pro@gmail.com
-
-
 # Bienvenue chez @leo-lucidor 👋
 
 - 📫 Contactez-moi sur **leo.lucidor.pro@gmail.com**
